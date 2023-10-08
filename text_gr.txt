@@ -1,0 +1,28 @@
+{
+    "items": [
+            {
+                "key":"test",
+                "value":"Hoş Geldin"
+            },
+            {
+                "key":"test2",
+                "value":"Test 2 bu "
+            },
+            {
+                "key":"StartButton",
+                "value":"Oyuna Başla"
+            },
+            {
+                "key":"SetLanguageButton",
+                "value":"TR | Dili Değiştir "
+            },
+            {
+                "key":"SettingsButton",
+                "value":"Ayarlar"
+            },
+            {
+                "key":"ExitButton",
+                "value":"Çıkış"
+            }
+    ]
+}
