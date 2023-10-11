@@ -2,11 +2,11 @@
     "items": [
             {
                 "key":"test",
-                "value":"Hoş Geldin"
+                "value":"Denemedir bu"
             },
             {
                 "key":"test2",
-                "value":"Test 2 bu "
+                "value":"Ellaz"
             },
             {
                 "key":"StartButton",
