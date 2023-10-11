@@ -23,6 +23,18 @@
             {
                 "key":"ExitButton",
                 "value":"Çıkış"
-            }
+            },
+            {
+                "key":"CollectText",
+                "value":"Kütük Topla"
+            },
+            {
+                "key":"DesignText",
+                "value":"Ev Tasarla"
+            },
+            {
+                "key":"BoostText",
+                "value":"Güçlendirme"
+            }            
     ]
 }
